@@ -3,10 +3,10 @@
 
 <div>
   <a href="https://github.com/ronaldo-rios">
-  <img align="center" height="200em" src="https://github-readme-stats.vercel.app/api?username=ronaldo-rios&show_icons=true&theme=radical"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=ronaldo-rios&show_icons=true&theme=radical"/>
 </div>
 <div>
-  <img align="center" height="280em" width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronaldo-rios&langs_count=8&theme=dracula"/>
+  <img height="280em" width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronaldo-rios&langs_count=8&theme=dracula"/>
 </div>
 
 <div style="display: inline_block"><br> 
