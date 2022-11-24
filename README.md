@@ -3,7 +3,7 @@
 
 <div>
   <a href="https://github.com/ronaldo-rios">
-  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=ronaldo-rios&show_icons=true&theme=radical"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ronaldo-rios&show_icons=true&theme=radical"/>
   <img height="200em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronaldo-rios&langs_count=8&theme=dracula"/>
 </div>
 
