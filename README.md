@@ -1,7 +1,7 @@
 
 ### Hi. I'm Ronaldo Espíndola 👋
 
-<div style="background-color:black">
+<div>
   <a href="https://github.com/ronaldo-rios">
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=ronaldo-rios&show_icons=true&theme=radical"/>
 </div>
@@ -10,7 +10,7 @@
 </div>
 
 <div style="display: inline_block"><br> 
-<h2>Technologies I know the most:</h2>
+<h2>Technologies I'm studying and improving myself:</h2>
   <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
   <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
   <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
