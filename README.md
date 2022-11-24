@@ -1,7 +1,7 @@
 
 ### Hi. I'm Ronaldo Espíndola 👋
 
-<div>
+<div style="background-color:black">
   <a href="https://github.com/ronaldo-rios">
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=ronaldo-rios&show_icons=true&theme=radical"/>
 </div>
