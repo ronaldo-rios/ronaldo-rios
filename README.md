@@ -3,8 +3,8 @@
 
 <div>
   <a href="https://github.com/ronaldo-rios">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ronaldo-rios&show_icons=true&theme=radical"/>
-  <img height="180em" width="280em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronaldo-rios&langs_count=8&theme=dracula"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=ronaldo-rios&show_icons=true&theme=radical"/>
+  <img height="200em" width="280em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronaldo-rios&langs_count=8&theme=dracula"/>
 </div>
 
 <div style="display: inline_block"><br> 
