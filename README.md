@@ -14,12 +14,9 @@
   <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
   <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" />
           
-</div>
+</div><br>
 
-<div>
-  ## Let's code!
-  <br/>
-  <div>
-    ![lets_code](https://github.com/ronaldo-rios/ronaldo-rios/blob/main/dev-jim-carrey.gif)
-  </div>
-</div>
+## Let's code!
+
+![lets_code](https://github.com/ronaldo-rios/ronaldo-rios/blob/main/dev-jim-carrey.gif)
+
