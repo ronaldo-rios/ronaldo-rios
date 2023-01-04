@@ -2,8 +2,8 @@
 ### Hi. I'm Ronaldo Espíndola 👋
 
 <div style="display:flex">
-  <img heigth="200em" min-width="20vw"src="https://github-readme-stats.vercel.app/api?username=ronaldo-rios&show_icons=true&theme=dracula"/>
-  <img height="280em" min-width="70vw" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronaldo-rios&langs_count=8&theme=dracula"/>
+  <div><img heigth="" min-width="60%" src="https://github-readme-stats.vercel.app/api?username=ronaldo-rios&show_icons=true&theme=dracula"/></div>
+  <div><img height="" min-width="80%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronaldo-rios&langs_count=8&theme=dracula"/></div>
 </div>
 
 <div style="display: inline_block"><br> 
