@@ -2,8 +2,8 @@
 ### Hi. I'm Ronaldo Espíndola 👋
 
 <div>
-  <img heigth="200em" min-width="40%"src="https://github-readme-stats.vercel.app/api?username=ronaldo-rios&show_icons=true&theme=dracula"/>
-  <img height="280em" min-width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronaldo-rios&langs_count=8&theme=dracula"/>
+  <img heigth="200em" min-width="20%"src="https://github-readme-stats.vercel.app/api?username=ronaldo-rios&show_icons=true&theme=dracula"/>
+  <img height="280em" min-width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronaldo-rios&langs_count=8&theme=dracula"/>
 </div>
 
 <div style="display: inline_block"><br> 
@@ -20,9 +20,8 @@
 
 ![stormtrooper](https://github.com/ronaldo-rios/ronaldo-rios/blob/main/waiting-stormtrooper.gif)
 
-## Contact me by Linkedin:<a href="https://www.linkedin.com/in/ronaldo-rios/" >
-<img width="60px" heigth="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
-</a><br>
+## Contact me by Linkedin: 
+<a href="https://www.linkedin.com/in/ronaldo-rios/"><img width="60px" heigth="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a><br>
 
 ## Let's code!
 
