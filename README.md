@@ -1,5 +1,5 @@
 
-### Hi. I'm Ronaldo Espíndola 👋
+### Hi. I'm Ronaldo 👋
 Welcome to my Github. Here you will find demos of some of my main projects. I'm a developer focused on web development.
 Passionate about Star Wars, technology and problem solving since I was 16 years old, my main concern is always adding value and solving problems for people and companies. 
 <hr>
