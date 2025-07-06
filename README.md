@@ -20,9 +20,6 @@ Apaixonado por Star Wars, tecnologia e resolução de problemas desde meus 16 an
           
 </div><br>
 
-## Contact me by Linkedin: 
-<a href="https://www.linkedin.com/in/ronaldo-rios/"><img width="60px" heigth="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a><br>
-
 ## Let's code!
 
 ![lets_code](https://github.com/ronaldo-rios/ronaldo-rios/blob/main/dev-jim-carrey.gif)
