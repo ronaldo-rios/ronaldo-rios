@@ -5,9 +5,9 @@ Passionate about Star Wars, technology and problem solving since I was 16 years 
 <hr>
 🇧🇷 Seja bem vindo ao meu Github. Aqui você encontrará demonstrações de alguns dos meus principais projetos. Sou desenvolvedor focado em desenvolvimento da Web.
 Apaixonado por Star Wars, tecnologia e resolução de problemas desde meus 16 anos de idade, minha principal preocupação é sempre na agregação de valor e resolução de problemas para pessoas e empresas. 
-<br><br><br>
+<hr>
 
-<div style="display: inline_block"><br> 
+<div style="display: inline_block">
 <h2>Main Technologies:</h2>
   
   <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />   
